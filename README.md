@@ -1,3 +1,3 @@
 # Mini_ex
 
-![alt tekst](udklip.png) 
+![alt tekst](Udklip.png) 
