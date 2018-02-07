@@ -8,9 +8,11 @@
 In this code I basiclly just drew som shapes and filled them with colors
  
 **Setup**
+
 First I had to figure out the coordinate system and learn what the ratio between pixels and the canvas was by setting different sized canvases. I ended up making a canvas sized 500x500, and I ended up liking to work with this size, I'm not really sure why (maybe because it's easy to divide in 2, 4 or 5?)
  
 **Draw**
+
 I then tried out the all the different shapes that can be drawn(*ellipse(),traiangle(),arc()*), and startet to want to draw a face (I like drawing cartoony faces). This was a good practise for getting to know what the numbers in the parentheses mean(x,y,w,h).
 
 To give the face more sense of life I figured out how to fill the shapes with color using *fill()*, and leanred how to adjust the RGB variables. And I also learned how to hide the strokes of the shapes using *noStroke()*.
