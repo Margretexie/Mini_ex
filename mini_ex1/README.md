@@ -1,0 +1,1 @@
+![alt tekst](Udklip.PNG)
