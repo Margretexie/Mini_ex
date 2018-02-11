@@ -22,10 +22,13 @@ I was a little confused by the *background()* setting. I first thought that it s
 
 ## Coding vs. reading and writing text
 When writing codes you often have an idea of what you wish the program to do, but you never have the perfectly clear picture of what to write. You kind of have to try different things out, like adjusting the numbers or trying a differen function. Just like writing a text, you know what the sentences should say, but it takes a bit time to choose the right words and the right formulations in order to get exactly what you had in mind.
+
 When understanding a code it's important that you read the code from beginning to end and in the correctt order. Unlike reading a text where it is allowed to skip a few words and you'll still get the full meaning out of the text.
 
 
 ## Potential and possibility of coding practice
 The next step of this piece of code would be to make it more dynamic. Maybe the eyes could move from side to side, or maybe blink once or twice every now and then? Maybe the mouth could change form from closed to opened?
+
 This piece of code could also be made interactive. Maybe by clicking on the nose a bugger runs down? Maybe by clicking on the mouth a toung sticks out? Maybe by clicking on the skin it changes color?
+
 The possibilities are endless, there could even be sounds involved. Like if the mouth is clicked the face would start talking?
