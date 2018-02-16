@@ -1,4 +1,4 @@
-# MANISFEST OF MOUSTACHES
+# MANIFESTATION OF MOUSTACHES
 
 ![alt tekst](pic2.PNG) ![alt tekst](pic1.PNG)
 
