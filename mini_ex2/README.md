@@ -9,13 +9,13 @@
 A lot has happened since my last code. This code is actually just a huge upgrade of my [mini_ex1.](https://rawgit.com/Margretexie/Mini_ex/master/mini_ex1/empty-example/index.html)
 
 #### Dynamics 
-With the help of setting *variations* (speed and pupilsX/Y) and *"if*-statements" the eyes of the man now moves from side to side. 
+With the help of setting *variables* (speed and pupilsX/Y) and *"if*-statements" the eyes of the man now moves from side to side. 
 
 
 #### Interactivity
 And with the help of *AND, OR, ELSE* statements there's now also a roll-over effect on the man's nose.
 
-And with the *mousePressed* function the nose has become a botton that triggers the **MANIFESTATION OF MOUSTACHES**, where the code picks a random photo of a famouse person with a beautiful moustache. There are preloaded 19 photos, and I've made sure that the noses of these people are at the same spot as the nose of the drawn man (this step took a great deal of time to complete).
+And with the *mousePressed* function the nose has become a botton that triggers the **MANIFESTATION OF MOUSTACHES**, where the code picks a random photo of a famouse person with a beautiful moustache. To do this I've preloaded 19 photos, and I've made sure that the noses of these people are put at the same spot as the nose of the drawn man (this step took a great deal of time to complete). These photos are "stored" in an *array*, so that the *random()* function can choose a photo from within this array and draw it at the chosen koordinates.
 
 ## FUN!
 **Fun of geekiness**: It has been so much fun in making this code. Exploring and trying out new functions, making sense of the codes, failing  a bunch of times and being very excited and happy when it finaly succeeds!  
