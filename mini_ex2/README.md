@@ -6,7 +6,7 @@
 **URL:** https://rawgit.com/Margretexie/Mini_ex/master/mini_ex2/empty-example/index.html
 
 ## So, this happened...
-A lot has happened since my last code. This code is actually just a huge upgrade of my [mini_ex1].(https://rawgit.com/Margretexie/Mini_ex/master/mini_ex1/empty-example/index.html)
+A lot has happened since my last code. This code is actually just a huge upgrade of my [mini_ex1.](https://rawgit.com/Margretexie/Mini_ex/master/mini_ex1/empty-example/index.html)
 
 **Dynamics**
 
