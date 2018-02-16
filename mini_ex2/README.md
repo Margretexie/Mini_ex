@@ -1,7 +1,7 @@
 # MANISFEST OF MOUSTACHES
 
-![alt tekst](pic1.PNG)
-![alt tekst](pic2.PNG)
+![alt tekst](pic2.PNG) ![alt tekst](pic1.PNG)
+
 
 **URL:** https://rawgit.com/Margretexie/Mini_ex/master/mini_ex2/empty-example/index.html
 
