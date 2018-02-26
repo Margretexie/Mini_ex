@@ -17,14 +17,14 @@ With for-statements I managed to create a "grid" in the background, just like re
 The millisecond thing was just added to try it out, but it does contribute to the idea of a real heartbeat monitor where the bpm (beats per minute) is usually counted in the corner.
 
 # The Deep Stuff
-##### What is the time-related syntax/function that you have used in your program? and why do you use in this way?
+#### What is the time-related syntax/function that you have used in your program? and why do you use in this way?
 The fact that the ellipse is moving in a constant speed, it resets back to 0 and starts over and over again and the milliseconds counted in the corner shows us that this piece of code is time-related. 
 
 BUT
 
 I think it also shows us much more then that. By being dynamic and continous it shows us that the machine is working, and maybe even "alive"? It makes me wonder: Humans need their heartbeats going in order to stay alive, what about computers? Are they heartless? Can we given them a heart?
 
-##### Think about a throbber that you have encounted in digital culture e.g streaming video on YouTube or loading latest feeds on Facebook or waiting a ticket transaction, what do you think a throbber tells us, and/or hides, about? How might we think about this remarkable throbber icon differently?
+#### Think about a throbber that you have encounted in digital culture e.g streaming video on YouTube or loading latest feeds on Facebook or waiting a ticket transaction, what do you think a throbber tells us, and/or hides, about? How might we think about this remarkable throbber icon differently?
 Throbbers are there to entertain us with something dynamic while we wait, it's like taking our focus somewhere else so we can forget about the time wasted (We get distracted by throbbers like babies or cats getting distracted by moving objects). 
 
 But the annoying thing about throbbers are, that they tell us either of these two things: I'm working on something really hard so this might take a while. Or. I'm not really working because something's wrong. You'll never know... But in the last case, THANK GOD some genius came up with the idea that the throbber should stop entertaining us after a sertain amount of wasted time and tell us if something is wrong.
