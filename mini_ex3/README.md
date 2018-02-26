@@ -30,10 +30,9 @@ Throbbers are there to entertain us with something dynamic while we wait, it's l
 But the annoying thing about throbbers are, that they tell us either of these two things: I'm working on something really hard so this might take a while. Or. I'm not really working because something's wrong. You'll never know... But in the last case, THANK GOD some genius came up with the idea that the throbber should stop entertaining us after a sertain amount of wasted time and tell us if something is wrong.
 
 Some throbbers also has a function of advertisement, like Google's throbbers always has the same colors as their logo:
-https://dribbble.com/shots/1191457-Dots-Throbber
-https://dribbble.com/shots/1198509-Google-Plus-Like-Loader
-https://giphy.com/gifs/little-mix-icons-Ne0tAkq2Ku2w8
+[This](https://dribbble.com/shots/1191457-Dots-Throbber)   [Or this] (https://dribbble.com/shots/1198509-Google-Plus-Like-Loader)
+  [Or even this](https://giphy.com/gifs/little-mix-icons-Ne0tAkq2Ku2w8)
 
 Or this one from Alternativet which is just their logo spinning around it self: https://alleos.alternativet.dk/user/3980
 
-This has led to some more interesting throbbers than the normal gray-dots-spinning-around-and-driving-you-crazy-throbber. My favorite so far is the cute octopus throbber: https://imgur.com/gallery/r3PStS5. And I think every throbber should be this unique and fun!
+This has led to some more interesting throbbers than the normal gray-dots-spinning-around-and-driving-you-crazy-throbber. My favorite so far is the [cute octopus throbber](https://imgur.com/gallery/r3PStS5). And I think every throbber should be this unique and fun!
