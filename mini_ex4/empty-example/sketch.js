@@ -23,11 +23,11 @@ function setup() {
 function draw() {
   movement = ctracker.getScore();   // getScore() tells me how well the face is fitted, where 1 is perfect fit
 
-  if (movement < 0.5){
-    background(0,0,0,2);
+  if (movement < 0.48){
+    background(0,5);
     fill(0,250,0);
     textSize(15);
-    text(random(num),random(0,640),random(0,480));
+    text(random(num),random(0,width),random(0,height));
   } else {
     clear();
   }
