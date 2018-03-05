@@ -1,7 +1,9 @@
 # Data Capture
 ![alt tekst](miniex4.gif) 
 
-NOTE: For best experience please be in a bright room, and preferably take your glasses of.
+## NOTE: 
+For best experience please be in a bright room, and preferably take your glasses of.
+
 Try moving away from the computer or hide your face.
 [Try it out.](https://rawgit.com/Margretexie/Mini_ex/master/mini_ex4/empty-example/index.html)
 
@@ -16,5 +18,9 @@ The face tracker is a bit slow and buggy though. So the program is not 100% opti
 
 # So what's the point?
 ### How might this ex helps you to think about or understand the data capturing process in digital culture?
-This mini_ex shows us that the computer is ALWAYS watching you, and it knows whether you're in front of it or not because it's constantly collecting data about you even when you're not looking.
-its super creeeeeeeeppyy
+This mini_ex shows us that the computer is ALWAYS watching you, and it knows whether you're in front of it or not because it's constantly collecting data about you even when you're not looking. 
+
+I recently became acquainted with the ["FBI man" meme](http://knowyourmeme.com/memes/government-agent-watching-me) which refers to the thought about government agents watching people through their webcams, listening to phonecalls or reading texts. And this is where my idea came from.
+
+The more aware we become that these monitoring methods are posible (especially after watching the movie Snowden), the more paranoia we become. But actually the computer itself has been doing this for a looong time now. It's programed to watch every step you take or every move you make by collecting data all the time, but this is not something that we're so afraid of. The thought of it is a bit creepy, but the computer itself is innocent. And we know that data is often been collected to improve our technology, and that's a good thing. We only get paranoid when the collected data are in somebody else's hands (like the FBI or hackers for instance). 
+
