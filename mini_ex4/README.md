@@ -1,6 +1,7 @@
 # Data Capture
-![alt tekst](throbber.PNG) 
+![alt tekst](miniex4.mp4) 
 
+NOTE: For best experience please be in a bright room, and preferably take your glasses of.
 Try moving away from the computer or hide your face.
 [Try it out.](https://rawgit.com/Margretexie/Mini_ex/master/mini_ex4/empty-example/index.html)
 
