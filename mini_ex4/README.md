@@ -1,5 +1,6 @@
 # Data Capture
 ![alt tekst](miniex4.mp4) 
+<video src="miniex4.mp4" width="320" height="200" controls preload></video>
 
 NOTE: For best experience please be in a bright room, and preferably take your glasses of.
 Try moving away from the computer or hide your face.
