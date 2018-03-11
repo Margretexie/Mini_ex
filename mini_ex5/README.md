@@ -22,13 +22,14 @@ In my html file I've imported three libraries: ```p5.play```, ```p5.sound``` and
  - I've also struggle a bit with the p5.sound. I want the music to start over once it's finished playing but I couldn't get that to work well either. I tried the ```loop()``` function, but it made the music sound weired for some reason...
 ## Object-oriented Programming
 OOP is characterized by using and manipulating objects. These object are created based on a "blueprint" or "template" called class. This class is what decides which overall attributes and functions the object should have. But each object can be unique in their own details:
->"An object inherits most of its attributes from its class, but these attributes may differ amongst the object instances of that class"
+>"An object inherits most of its attributes from its class, but these attributes may differ amongst the object instances of that class" *(Roger Lee)*
 
 OOP is based on an act of abstraction since the programmer is the one deciding which attributes and which functions are needed:
->"capturing and focusing on the important details, while leaving out those that are less important"
+>"...capturing and focusing on the important details, while leaving out those that are less important"*(Roger Lee)*
 
 ## The Wider Context
 **Extend/connect your game project to wider digital culture context, can you think of a digital example and describe how complex details and operations are being abstracted and encapsulated?**
+
 Well, I would argue that every piece of software is an act of abstraction and encapsulation. Instead of reading and writing 0s and 1s we've made up computer languages that we humans can understand, and these languages are the foundation of software. But looking at more specifik instances of examples we can just look at the throbber which abstracts the notion of processing. Or the metaphors we've made like "desktop, files, trash bin...", these are words that cover up the details of how the computer works, and gives us a simple conseptual understanding of how we assume it works. We can also look at all the symbols we see on our devices, by implementing everywhere we've universalized them to have a specific meaning. For example everyone know that the symbol of a magnifying glass means "search". Data is being abstracted from us since we never know when it's being captured and what is being captured.
 
 All these things have formed the way we see and understand things. And this fact can be critiqued by saying "Who've had the authority to decide how I percept the world? I should have the freedom to choose how I understand things!"
