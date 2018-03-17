@@ -1,9 +1,8 @@
 # Generativity
 ![alt tekst]() 
 [Try it](https://rawgit.com/Margretexie/Mini_ex/master/mini_ex6/empty-example/index.html)
-# Rules
 
-# The program over time - what's been generated
+# The program and its rules
 The program is made by creating a class called 'Fan'. I felt that making a class would give me more freedom to change and experiment with differen parameters and probably also more structure in my code. The class has three functions: show, move and change. These three functions are the cornerstones of the program's rules:
  - Show: The program generates a certain amount of half transparen arcs at random coordinates, and has different shades of blue and green. 
  - Move: These arcs are jiggling/moving randomly and thus creates a dynamic cloud/heatmap effect.
