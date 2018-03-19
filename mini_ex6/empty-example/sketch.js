@@ -46,11 +46,11 @@ class Fan {
   }
   move(){ //This makes the fans jiggle
     this.xpos +=random(-20,20);
-      if(this.xpos == width || this.xpos == 0){ //This makes sure the fans don't run off canvas, I make them bounce in the other direction when hit borders
+      if(this.xpos > width || this.xpos < 0){ //This makes sure the fans don't run off canvas, I make them bounce in the other direction when hit borders
         this.xpos = this.xpos * -1;
       }
     this.ypos +=random(-20,20);
-      if(this.ypos == width || this.ypos == 0){
+      if(this.ypos > width || this.ypos < 0){
         this.ypos = this.ypos * -1;
       }
   }
