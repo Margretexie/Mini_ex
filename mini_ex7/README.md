@@ -3,7 +3,7 @@
 ![alt tekst](Udklip2.PNG)
 ![alt tekst](Udklip3.PNG)
 
-[Try out code now](https://rawgit.com/Margretexie/Mini_ex/master/mini_ex7/empty-example/index.html)
+[Try out out code by clicking the different"command buttons"(Some are mixable, some reusable)](https://rawgit.com/Margretexie/Mini_ex/master/mini_ex7/empty-example/index.html)
 
 # E-litterature
 This weeks theme is e-litterature that utilizes written text/audio text as the main medium to convey a kind of message. 
