@@ -8,7 +8,6 @@
 
 [Try out out code by clicking the different"command buttons"(Some are mixable, some reusable)](https://rawgit.com/Margretexie/Mini_ex/master/mini_ex7/empty-example/index.html)
 
-# Our Program
 ## Technical aspect 
 This is a program that contains a canvas, a text object and 10 different buttons with each their functions that affects the text object. We chose to use object oriented programming so we could easily manipulate with the objects attributes under the different circumstances. As seen in the code ``txt.text=’...’`` is a syntax we’ve used several times, since the text is the main object of the program. Other attributes we’ve manipulated with are ``txt.color, txt.ypos/xpos, txt.size, txt.font`` and so on.
 
