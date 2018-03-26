@@ -1,12 +1,12 @@
 # txt.cmd (In collaboration with Teis Johannesen)
+# E-litterature
+This weeks theme is e-litterature that utilizes written text/audio text as the main medium to convey a kind of message. 
 ![alt tekst](Udklip.PNG) 
 ![alt tekst](Udklip2.PNG)
 ![alt tekst](Udklip3.PNG)
 
 [Try out out code by clicking the different"command buttons"(Some are mixable, some reusable)](https://rawgit.com/Margretexie/Mini_ex/master/mini_ex7/empty-example/index.html)
 
-# E-litterature
-This weeks theme is e-litterature that utilizes written text/audio text as the main medium to convey a kind of message. 
 # Our Program
 ## Technical aspect 
 This is a program that contains a canvas, a text object and 10 different buttons with each their functions that affects the text object. We chose to use object oriented programming so we could easily manipulate with the objects attributes under the different circumstances. As seen in the code ``txt.text=’...’`` is a syntax we’ve used several times, since the text is the main object of the program. Other attributes we’ve manipulated with are ``txt.color, txt.ypos/xpos, txt.size, txt.font`` and so on.
@@ -32,7 +32,7 @@ In our program you interact with a text-object by using 10 buttons, labeled ‘T
 
 In a way it feels like you are commanding the computer to do certain things by using english language instead of programming languages.  In this perspective you become the Word, the God that commands the computer to do certain things. In its strong believe in you it does whatever you tell it to without hesitation. The fact that we've used object oriented programming also supports the idea of us "playing Gods" who manipulate the computer which is merely an object or a "puppet".
 
-Each command button makes the text-element perform an action but also react on that action much in the same way as a human would. This feedback gives the computer a form of voice or personality. Reacting on things like being dropped on the ‘ground’ by writing **Hurt** or changing color by writing **Pretty**. This gives an idea of humanizing the computer and hiding the fact that the program is just following rules and algorithms.
+Each command button makes the text-element perform an action but also react on that action much in the same way as a human would. This feedback gives the computer a form of voice or personality. Reacting on things like being dropped on the ‘ground’ by writing "Hurt" or changing color by writing "Pretty". This gives an idea of humanizing the computer and hiding the fact that the program is just following rules and algorithms.
 
 # Vocable Code and our program
 *What is the aesthetic aspects of your program in particular to the relationship between code and language?*
