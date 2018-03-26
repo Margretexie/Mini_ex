@@ -1,4 +1,4 @@
-# txt.cmd - CODE IS LAW (In collaboration with Teis Johannesen)
+# txt.cmd (In collaboration with Teis Johannesen)
 ![alt tekst](Udklip.PNG) 
 ![alt tekst](Udklip2.PNG)
 ![alt tekst](Udklip3.PNG)
