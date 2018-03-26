@@ -1,6 +1,7 @@
 # txt.cmd (In collaboration with Teis Johannesen)
-# E-litterature
-This weeks theme is e-litterature that utilizes written text/audio text as the main medium to convey a kind of message. 
+**E-litterature:** This week's theme is e-litterature that utilizes written text/audio text as the main medium to convey a kind of message. 
+
+
 ![alt tekst](Udklip.PNG) 
 ![alt tekst](Udklip2.PNG)
 ![alt tekst](Udklip3.PNG)
