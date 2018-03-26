@@ -25,25 +25,29 @@ function txtdrop(){
 A more detailed description of the code’s different parts is commented inside the code.
 
 ## Conceptual aspect
-Our program was inspired by the notion of “executive code”, how language becomes executable in code and becomes actions of the programmers wish.This reminded us of the notion of “Code is law” and The Word:
+Our program was inspired by the notion of “executive code”, how language becomes executable in code and becomes actions of the programmers wish. This reminded us of the notion of “Code is law” and The Word:
 >"In the beginning was the Word, and the Word was with God, and the Word was God" (John, 1:1,)
 
-In our program you interact with a text-object by using 10 buttons, labeled ‘The 10 commandments’, on the right side. Each button makes the text-element perform an action but also react on that action much in the same way as a human would. This feedback gives the computer a form of voice or personality. Reacting on things like being dropped on the ‘ground’ by writing **Hurt** or changing color på writing **Pretty**. 
+In our program you interact with a text-object by using 10 buttons, labeled ‘The 10 commandments’ on the right side. 
 
-In a way this feels like you are commanding the computer to do certain things by using english language instead of programming languages. Further supporting the idea of humanizing the computer. In this perspective you become the word, the God that commands the computer to do certain things. In its strong believe in you it does whatever you tell it to without hesitation. 
+In a way it feels like you are commanding the computer to do certain things by using english language instead of programming languages.  In this perspective you become the Word, the God that commands the computer to do certain things. In its strong believe in you it does whatever you tell it to without hesitation. The fact that we've used object oriented programming also supports the idea of us "playing Gods" who manipulate the computer which is merely an object or a "puppet".
 
-#Vocable Code and our program
-This is individual comments that each of us made as we analyzed our work using the text ‘Vocable Code’.
-*Each of you in the group analyze your own e-lit work by using the text 'Vocable Code': what is the aesthetic aspects of your program in particular to the relationship between code and language?*
+Each command button makes the text-element perform an action but also react on that action much in the same way as a human would. This feedback gives the computer a form of voice or personality. Reacting on things like being dropped on the ‘ground’ by writing **Hurt** or changing color by writing **Pretty**. This gives an idea of humanizing the computer and hiding the fact that the program is just following rules and algorithms.
 
-Margrete:
+# Vocable Code and our program
+*What is the aesthetic aspects of your program in particular to the relationship between code and language?*
 
+This program is showing us how the computer's language is an executable language. And how the program is telling us what it's doing on the exact moment it's doing it. As Geoff Cox states:
 > "Programs are operative inasmuch as they do what they say, but moreover they do what they say at the moment of saying it" (p.35 Vocable code by Geoff Cox)
+In our program it's *literally* telling us what it's doing by changing text: Like when it's moving, it's also telling us that it's moving by displaying the text "Moving".
 
->"Programmers bring bodily meaning to their work by applying models of human perception, and by trying to account for the ways that other social bodies are drawn into the process of meaning production"(p.26 Vocable code by Geoff Cox)
+Furthermore the program also shows us how the computer is executing *precisely* as we tell it to - no more and no less. The computer does not have the capability to "think creatively" our "think outside the box" like we have. When we speak, we can have several different ways to express the same meaning. We can add some fancy words to give a sentences new dimensions or another tone. But the computer is so logical and algorithmic, that it's only capable of saying or expressing *exactly* what we tell it to. Like Florian Cramer says:
+> “Writing in a computer programming language is phrasing instructions for an utter idiot.” (Florian Cramer, “Language”, in Fuller op. cit., p.171)
 
+When we speak, we automatically also consider the social surroundings we're in. We carefully pick out the words we're going to use according to what we're talking about, who we're talking to and when we're talking. Grammatical rules do give us a basic structure of how we speak, but other than that we're free to choose whatever words we want to express ourselves. The computer on the other hand doesn't care that much of the meaning of words, they just see it as symbols in a sequence:
 > "The meanings of words are not derived from an inherent logical structure alone that manipulates symbols into particular sequences (like a program), but also from their social usage." (p.32 Vocable code by Geoff Cox)
 
-> “Writing in a computer programming language is phrasing instructions for
-an utter idiot.” (Florian Cramer, “Language”, in Fuller op. cit., p.171)
+Some of the elements of our program is based on our human perception. Like the fact that the computer can "change mood" or "freeze". These are human attributes that we all know about and thereby we create a "lively" program as if it had feelings and a body like us:
+>"Programmers bring bodily meaning to their work by applying models of human perception, and by trying to account for the ways that other social bodies are drawn into the process of meaning production"(p.26 Vocable code by Geoff Cox)
+Another example is: When the program says "dropping" we immediately understanding it as moving downwards because of gravity. But since there's no gravity in the program we've actually just created a fake simulation of what we understand as dropping and put it in the code. 
 
