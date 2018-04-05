@@ -1,1 +1,24 @@
-![Alt text]Udklip.PNG
+# UTOPIA (Unisex Toilet Overview Provider Internet Application) - In collaboration with Nanna N
+![alt tekst](Udklip1.PNG) 
+[FIND YOUR REFUGE HERE](https://rawgit.com/Margretexie/Mini_ex/master/mini_ex8/empty-example/index.html)
+
+## Concept:
+The program is a quick overview of where you can find unisex toilets in the three biggest cities in Denmark. It provides you with information about the toilet’s location, address and if needed a comment possibly made in collaboration with users of LGBTQ+ communities. It also tells you how many toilets in total, that are to be found in the given city that are clicked.   
+
+All this information is provided to us through an API from [Refuge Restrooms](www.refugerestrooms.org/). We’ve wanted to make a program with a political statement. Through our program we’ve raised awareness to the numbers of unisex toilets in Denmark. These numbers are low in general, and this can cause problems for the LGBTQ+ community members. Furthermore, the information can maybe be of help for those who seek unisex toilets.
+## Technical:
+The data from the API is determined by location - longitude and latitude - therefore, we created variable that contains the specific longitudes and latitudes of the three cities. 
+
+At first we thought that we could make a search bar, where you could write the name of the city - we could therefore make a program that provides information of the whole world. But because of the way the location is defined by longitude and latitude, we had to simplify our work by limiting our program to only count in the three big cities of Denmark. 
+
+We had some problems with using the API data, because it seemed like it wouldn’t update the data when the API changed (when choosing between the cities). So we made an extra function called ´update data´ which will store the new API and thereby work as a step between clicking the buttons and showing the data.
+
+Additional technical aspects of the program is commented in the code.
+
+
+## Reflections
+(individual) Can you describe and reflect your process of making this mini exercise in terms of acquiring, processing, using and representing data? How much do you understand this provided data? How do platform providers sort the data and give you the selected data?
+
+
+(individual)Try to formulate a question in relation to web APIs or querying processes that you want to investigate further when you have more time.
+
