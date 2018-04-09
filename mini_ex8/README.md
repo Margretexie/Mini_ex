@@ -27,4 +27,5 @@ The data we found were obviously created by a community of people since there we
 ![alt tekst](data.PNG) 
 
 *Try to formulate a question in relation to web APIs or querying processes that you want to investigate further when you have more time.*
+
 How much influence do web APIs have on software development? Does it liberate developers or confine them?
