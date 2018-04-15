@@ -1,6 +1,6 @@
 # Flow charts
 
-![alt tekst](OOP flow chart.png) 
+![alt tekst](OOP_flow_chart.png) 
 
 ![alt tekst](Captcha.png) 
 
