@@ -45,6 +45,8 @@ Algorithms are a recipe for how a machine should solve a solution. And a flow ch
 
 But this transparentcy and simplicity of computational systems that flow charts give us are not making us more understandable to what codes and algorithms are and how they work. Even though we are growing more and more familiar with these algorithms or *cultural machines* as Ed Finn calls them, we get them served on a silver plate and don't really bother to think about *how* they work but merely "belive in the magic":
 >"We believe in the power of code as a set of magical symbols linking the invisible and visible, echoing our long cultral tradition of logos, or language as an underlying system of order and reason, and its power as a kind of sourcery. We believe in the elegant abstractions of cybernetics and, ultimately, the computational universe - that algorithms embody and reproduce the mathematical substrate of reality in culturally readable ways." (Finn 2017, p.34)
+
+And we seem to forget the abstracted parts when presented to computatinoal systems or - in this case - flow charts of computational systems:
 >"But every abstraction has a shadow, a puddled remainder of context and specificity left behind in the act of lifting some idea to a higher plane of thought" (Finn 2017, p.24)
 
 
