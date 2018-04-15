@@ -12,15 +12,15 @@ Something else that was hard was to playce the blocks of the flow chart tactical
 ### Group work:
 *Present two different ideas with two different flow charts. What might be the possible technical challenges for the two ideas and how are you going to solve them?*
 #### Idea 1: Captcha
-We are going create our own Captcha-program. The Captcha tries to figure whether the user of a certain program is a human or not. This is to avoid spamming or viruses in the program. The Captcha will for example ask you to write down a couple of letters to confirm your humanity. Our hope is to create an unreasonable Captcha with several levels to achieve. The levels could require to make use of sight and hearing senses or intelligence skills. The point is to make it difficult for the user to attain accessibility to the program in the end. This is to show how natural language and code/machine language differentiate from each other. The goal is in the end to show the differences between human-thinking and computational-thinking inspired by The Turing Test.
+We are going to create our own Captcha-program. A [Captcha](https://www.google.dk/search?q=captcha&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi8m-781rzaAhUH3aQKHTbzDuUQ_AUICigB&biw=758&bih=664) tries to figure out whether the user of a certain program is a human or not. This is to avoid spamming or viruses in the program. The Captcha will for example ask you to write down a couple of letters to confirm your humanity. Our hope is to create an unreasonable Captcha with several levels to achieve. The levels could require to make use of sight and hearing senses or intelligence skills. The goal of this program is to make it difficult for the user to attain accessibility to the program in the end. This is to show how natural language and code/machine language differentiate from each other. The point is also to show the differences between human-thinking and computational-thinking. You can think of it as an inverted Turing Test, a test made by the computer to determin if the user is a human or not.
 
 ![alt tekst](Captcha.png) 
 
 **Challenges:** 
-- It may be difficult to develop a leveling program and to sort out different lines of code to not interact with each other. But this could be overcomed by organizing and folding.
+- It may be difficult to develop a leveling program and to sort out different lines of code to not interact with each other. But this could be overcomed by organizing and folding, or by the use of several .js/.html files.
 - Some higher level captchas might be hard to program. But our initial idea do not include any of those.
 - It might be difficult to 1) make the program easy to navigate in and 2) the code itself readable. We fear that this idea might require a lot of variables to check different states of the program.
-- To make it interesting. Do we need some kind of randomness in challenges given? different puzzles to each level? 
+- To make it interesting. Do we need some kind of randomness in challenges given? Different puzzles to each level? 
 
 #### Idea 2: Art Investigator (AI)
 This program is trained to analyze pictures through machine learning. It analyzes the pictures according to colors, vividness, shapes and so on… We do expect it to fail at some photos. For example with a photo of a burning house, the program would probably say that it’s a beautiful photo because of it’s vivid colors and brightness. 
